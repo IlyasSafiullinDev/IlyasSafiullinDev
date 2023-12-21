@@ -9,10 +9,10 @@ I'm  24 years old, game developer <img src="https://media.giphy.com/media/WUlplc
  My journey into aiti started with the SKILLBOX mini-course. I was very interested in game development and decided that I would develop in this direction. I learned C# and UNITY and now I can create games. I can realize any fantasy I want. But I don't stop there. I am adding other skills to my stack: SQL, .NET and others.
 
 
-- :telescope: Завершил курс ЯЮниор по C# Романа Сакутина (AGAVA GAME)! ![Gmail Badge](https://static.tildacdn.com/tild6563-6561-4365-b333-363831353866/ijunior.svg)
+- :telescope: Завершил курс ЯЮниор по C# Романа Сакутина (AGAVA GAME)! ![Badge](https://static.tildacdn.com/tild6563-6561-4365-b333-363831353866/ijunior.svg)
 
 
-- :zap: Завершил курс ЯЮниор по UNITY Романа Сакутина (AGAVA GAME)! ![Gmail Badge](https://static.tildacdn.com/tild3063-3032-4238-b836-353538366239/Logo.svg) 
+- :zap: Завершил курс ЯЮниор по UNITY Романа Сакутина (AGAVA GAME)! ![Badge](https://static.tildacdn.com/tild3063-3032-4238-b836-353538366239/Logo.svg) 
 
 
 ___
