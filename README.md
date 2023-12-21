@@ -14,7 +14,9 @@ I'm  24 years old, game developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: Завершил курс ЯЮниор по UNITY Романа Сакутина (AGAVA GAME)! ![Badge](https://static.tildacdn.com/tild3063-3032-4238-b836-353538366239/Logo.svg) 
 
-
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 ___
 
 ### 🤝 Contact me:
