@@ -17,8 +17,9 @@ I'm  24 years old, game developer <img src="https://media.giphy.com/media/WUlplc
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
-___
 
+
+___
 ### 🤝 Contact me:
 
   <div id="badges">
